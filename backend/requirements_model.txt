@@ -1,0 +1,8 @@
+# Core dependencies for next word model prediction
+keras>=3.0.0
+h5py>=3.0.0
+numpy>=2.0.0
+
+# Optional: For full model loading and training
+# tensorflow>=2.15.0
+# Note: TensorFlow is optional if you only need to inspect model structure
